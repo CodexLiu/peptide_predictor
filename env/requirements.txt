@@ -1,0 +1,4 @@
+torch==2.2.0
+torchvision==0.18.1
+torchaudio==2.2.0
+chai_lab==0.4.2
