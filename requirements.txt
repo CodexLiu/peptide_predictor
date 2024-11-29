@@ -1,0 +1,13 @@
+torch==2.3.1
+torchvision==0.18.1
+transformers==4.46.3
+pandas==2.2.3
+chai_lab
+scikit-learn==0.23.2
+biopython==1.84
+pyrosetta @ https://west.rosettacommons.org/pyrosetta/release/release/PyRosetta4.Release.python310.ubuntu.wheel/pyrosetta-2024.42+release.3366cf78a3-cp310-cp310-linux_x86_64.whl
+rdkit==2023.9.5
+pytest==8.3.3
+ruff==0.6.3
+mypy==1.13.0
+pre_commit==4.0.1
